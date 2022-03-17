@@ -5,7 +5,7 @@ import { AuthProvider } from "./context/AuthContext";
 import { PostProvider } from "./context/PostContext";
 
 import Routes from "./screen/Routes";
-import Nav from "./components/Nav";
+
 export default function App() {
   return (
     <>
